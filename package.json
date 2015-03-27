@@ -4,5 +4,16 @@
   "description": "Namespace all gulp tasks created within the callback",
   "main": "index.js",
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qard/gulp-namespace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/gulp-namespace/issues"
+  },
+  "homepage": "https://github.com/Qard/gulp-namespace"
 }
