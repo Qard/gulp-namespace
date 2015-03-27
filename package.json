@@ -1,6 +1,6 @@
 {
   "name": "gulp-namespace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Namespace all gulp tasks created within the callback",
   "main": "index.js",
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
