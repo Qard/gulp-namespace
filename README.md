@@ -1,5 +1,7 @@
 # gulp-namespace
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/gulp-namespace.svg)](https://greenkeeper.io/)
+
 This is handy helper lets you automagically namespace all tasks and task references within the supplied callback. This is useful for things like inheriting the tasks from a dependency gulpfile, without clobbering your own.
 
 ```
